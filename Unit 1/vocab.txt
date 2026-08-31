@@ -1,1 +1,19 @@
+Github - A Website to store, share, manage and host code and computing programs. 
 
+Repository - A digital space for storing files and folders, specifically code. 
+
+Code Environment - A digital space for building programs using code.
+
+Computing Terminal - A digital machine that runs code programs. 
+
+Python- A programming language used to build a variety of software programs such as apps, games, and AI tools.  
+
+Complexity - The interconnected working parts of a system that are generally difficult to understand and maintain.
+
+Abstraction - The practice of hiding complex systems to make it simpler and easier to manage.
+
+GPU - Graphical Processing Unit. The component of the computer that handles the videos and images on your computer.
+
+CPU - Central Processing Unit. The brain of the computer, handles all of the complex systems and processes that the computer performs.  
+
+RAM- Random Access Memory.  The short term memory of your computer that holds and runs data when you open apps and  games. The instance of that memory is gone when the computer is turned off. 

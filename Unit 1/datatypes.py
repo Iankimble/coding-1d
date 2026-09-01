@@ -3,25 +3,28 @@
 # you can use both single and double quotation 
 # marks for strings.
 
-"Ian Kimble" 
+"Ian Kimble "
 
 '123 Main street'
 
-'this cost $100 dollars.'
+'This cost $100 dollars.'
 
 # the hashtag is a marker that makes anything written
-# behind it invisible to the computer
+# behind it invisible to the computer.
+
 
 # INTEGERS - datatypes that are just whole numbers, or numbers
-# without a decimal point. 
-# we dont have to add any special symbols. we can write the number
-# as is. 
+# without a decimal point.  we dont have to add any special symbols. 
+# we can write the number as is. 
 
 10
 
 20
 
 2000000
+
+
+
 
 # FLOATS- A number with a decimal. 
 
@@ -42,14 +45,4 @@ True
 
 
 
-
-
-
-
-
-"Ian Kimble" 
-
-"123 main street"
-
-"this costs $10.00"
 

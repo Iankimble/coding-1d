@@ -13,8 +13,6 @@
 # behind it invisible to the computer.
 
 
-
-
 # INTEGERS - datatypes that are just whole numbers,
 # or numbers without a decimal point.  we dont have 
 # to add any special symbols. we can write the number 

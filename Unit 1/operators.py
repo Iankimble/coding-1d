@@ -39,7 +39,6 @@ print(2.0 == 2) # same as (true)
 print(200 != 100) # True- these are not the same
 print(300 != 300) # False- these are the same
 
-
 # logical operators- compares 2 conditions to check if
 # they are true or false
 # conditions = other operators
@@ -58,3 +57,12 @@ print(3 > 1 or 100 == 50)
 # result of the logical operators
 print(not(3 > 1 and 100 > 50)) 
 # this would come out to be false
+
+ 
+
+
+
+
+
+
+

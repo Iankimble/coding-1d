@@ -1,0 +1,19 @@
+To find article type : 
+code documentation swimm article (swimm with 2 m's) in google
+it is the first google link
+______________________________________________________
+
+1. In your own words, describe what documentation is?
+
+2. If you were working on a game with a large team of developers, 
+provide 3 reasons why having good documentation would be beneficial 
+to building the game.
+
+3. What's the difference between external and internal documentation? 
+
+4. Do you need to know how to code to read code documentation? briefly 
+explain why or why not
+
+
+
+

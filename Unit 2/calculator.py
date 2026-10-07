@@ -12,17 +12,21 @@ def calculate_add():
 #calculate_add()
 
 # make a function for: 
+
 # subtraction
 def calculate_subtract():
-    print("Program has started: please type in 2 numbers to subtract ")
+    print("Program has started: please type in a number to subtract ")
     num1 = int(input())
+    print("Please type another number: ")
     num2 = int(input())
     print( num1 - num2)
     print("Program has ended. ")
 
-
+calculate_subtract()
 
 # multiplication
+
+
 # division
 
 

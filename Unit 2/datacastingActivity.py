@@ -4,6 +4,9 @@
 # num2= "30"
 # print(num1 + num2)
 
+
+
+
 # # 2. Fix the error by converting the value to the appropriate data type
 # age = input('how old are you? ')
 # print('Im '+ age + 'years old')

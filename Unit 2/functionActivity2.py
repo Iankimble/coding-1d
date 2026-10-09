@@ -1,5 +1,5 @@
 # PROBLEM #1
-# Create a function that will take in 2 inputs and 
+#  Create a function that will take in 2 inputs and 
 # compare them.
 
 # Your inputs should be numbers. 
@@ -9,15 +9,13 @@
 # If it is less than the second input it 
 # should print true. If it is not, it should print false.
 
-def compareValue():
-    print("PROGRAM RUNNING")
+def compareValue():  
+    print("Comparing numbers: PROGRAM RUNNING")
     valA= int(input()) 
     valB= int(input())
     print(valA < valB)
 
-# compareValue()
-
-#PROBLEM #2
+# PROBLEM #2
 # Create a funtion that will compare if a student
 # has made honor roll.
 
@@ -30,12 +28,11 @@ def compareValue():
 # true, otherwise it should print false.
 
 def honorRollCheck():
-    print("PROGRAM RUNNING")
-    grade= int(input()) 
-    absenses= int(input())
+    print("honor roll check: PROGRAM RUNNING")
+    grade= int(input("what is your grade: ")) 
+    absenses= int(input("how many days have you missed: "))
     print(grade > 90 and absenses < 5)
 
-honorRollCheck()
 
 
 
@@ -59,9 +56,19 @@ honorRollCheck()
 
 
 
-# def honorRollChecker():
-#     print("PROGRAM IS RUNNING: please type in your grade: ")
-#     grade= int(input())
-#     print("please type in your absenses: ")
-#     absenses= int(input())
-#     print(grade > 90 and absenses < 5)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

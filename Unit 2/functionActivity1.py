@@ -19,3 +19,4 @@ print(val == val2)
 #3B
 val= input("")
 print(val == "Boys Latin")
+

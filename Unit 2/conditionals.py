@@ -1,8 +1,28 @@
-# Conditional logic- these are keywords that instruct your 
+# Conditional if/else logic- these are keywords that instruct your 
 # program to do specific instructions based on specific data 
 # or conditions
 
-# condititional syntax
+def billMachine():
+# condititional syntax (how it is written)
+    bill_amount = int(input("Please type in a bill tender (1,5,10): "))
+# if usually indicates that something is a possible option
+    if bill_amount == 1:
+        print("here are 4 quarters")
+# elif allows us to indicate that there are more possible options
+# you can have as many elif as you want
+    elif bill_amount == 5:
+        print("here are 20 quarters")
+    elif bill_amount == 10:
+        print("here are 50 quarters")
+    elif bill_amount == 20:
+        print("sorry cant accepts 20s. here's your money back")
+    elif bill_amount == 50:
+        print("sorry cant accepts 50s. here's your money back")
+# else is ALWAYS your last option. 
+    else: 
+        print("sorry amount entered is not correct. your burnt")
+
+
 def college():
     grade=  int(input("please type in your grade: "))
     if grade > 90:
@@ -19,22 +39,3 @@ def templeUApp():
     print("a7ds78sd") 
 
 college()
-
-# we can use multiple if statements by using the elif keyword. 
-# this allows us to have multiple program outcomes
-
-def gtavEnding():
-    characterDeath = input("who are you taking out: ")
-    selection= input("press 1 for trevor, 2 for michael")
-    if selection == 1:
-        death_wish_mission_trevor()
-    elif selection ==2:
-        death_wish_mission_michael()
-    elif:
-        secret_ending_good()
-    elif:
-        secret_ending_bad()
-    else:
-        death_wish_mission_default()
-
-

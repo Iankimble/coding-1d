@@ -41,12 +41,32 @@ def guessingGame():
 
 
 # Question 1
-# password reset function. Your function should take in a user password as an input.
-# within the function there should be a variable that contains the correct password.
-# the user should be able to attempt to enter the password 4 times. On the fourth attempt
-# of getting the password inccorect, it should print out a message telling the user that their account 
-# has been locked. If the user gets the password correct it should print out a message telling them
+# password reset function. Your function should take in a 
+# user password as an input.within the function there should be a 
+# variable that contains the correct password.
+# the user should be able to attempt to enter the password 4 times. 
+# On the fourth attempt of getting the password inccorect, 
+# it should print out a message telling the user that 
+# their account has been locked. If the user gets the password 
+# correct it should print out a message telling them 
 # they can access their account.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Question 2
 # Create a shots made-to-attempts function. your function should prompt the user to enter if they
@@ -88,4 +108,3 @@ def guessingGame():
 
 
 
-# if/ else and while are all functions! 

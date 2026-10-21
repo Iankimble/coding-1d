@@ -29,4 +29,9 @@ calculate_subtract()
 
 # division
 
+running = 1
+
+while running == 1:
+    print("welcome to the calculator please select a calculation")
+
 

@@ -60,20 +60,32 @@ def calculate_division():
     print("Program has ended. ")
 
 def mainCalculator():
-    print("main calculator is running... ")
-    selection = int(input())
-    if selection == 1:
-        calculate_add()
-    elif selection == 2:
-        calculate_subtract()
-    elif selection == 3:
-        calculate_multiply()
-    elif selection == 4:
-        calculate_division()
-    else:
-        print("sorry I dont understand your selection")
+    running='y'
+    while running == "y":
+        print("welcome to the calculator please select a calculation")
+        print("1-add, 2- subtract, 3 multi, 4 divide")
+        print("main calculator is running... ")
+        selection = int(input())
+        if selection == 1:
+            calculate_add()
+            print("do you want to do another calculation: ")
+            running =input()
+        elif selection == 2:
+            calculate_subtract()
+            print("do you want to do another calculation: ")
+            running =input()
+        elif selection == 3:
+            calculate_multiply()
+            print("do you want to do another calculation: ")
+            running =input()
+        elif selection == 4:
+            calculate_division()
+            print("do you want to do another calculation: ")
+            running =input()
+        else:
+            print("sorry I dont understand your selection")
 
-#mainCalculator()
+mainCalculator()
 
 
 # 7 and younger = 8.00
@@ -83,6 +95,7 @@ def mainCalculator():
 
 def ticketPrices():
     print("welcome to the movies. Please type in your age: ")
+    print("type y for yes, n for no.")
     age = int(input())
     if age<= 2:
         print("Dont bring that baby in here.")
@@ -97,7 +110,4 @@ def ticketPrices():
     else:
         print("Error. something went wrong.")
 
-ticketPrices()
-
-
-
+# ticketPrices()

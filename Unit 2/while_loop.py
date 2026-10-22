@@ -42,7 +42,7 @@ def guessingGame():
 
 # Question 1
 # password reset function. Your function should take in a 
-# user password as an input.within the function there should be a 
+# user password as an input. within the function there should be a 
 # variable that contains the correct password.
 # the user should be able to attempt to enter the password 4 times. 
 # On the fourth attempt of getting the password inccorect, 
@@ -52,27 +52,29 @@ def guessingGame():
 # they can access their account.
 
 
+def pwReset():
+    correctPw = '123abc'
+    attempts = 4
+
+    print("Welcome please enter your login password: ")
+    userPw = input()
+
+    while userPw != correctPw and attempts > 0:
+        print("sorry incorrect pw")
+        print("please try again")
+        attempts -= 1
+        print("number of attempts left: " + str(attempts))
+        userPw = input("please try again")
+
+    print(" you are locked out...")
+
+    print("Welcome you have access...")
+
+pwReset()
+
+  
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Question 2
-# Create a shots made-to-attempts function. your function should prompt the user to enter if they
-# made or missed a shot. If they enter made, it will give the user 2 points. else if they miss it 
-# will not give them points. Every shot must be recorded. If your user enters the letter "q", it 
-# will show how many points they made as well as the number of attempts they've made
 
 
 

@@ -4,7 +4,7 @@
 # There are two types of loops: For loop and While loop
 
 # While loop - a type of loop where so long as a condition is equal 
-# to true it will keep running "forever". 
+# to TRUE it will keep running "forever". 
 
 # the keyword is while --> do while 
 

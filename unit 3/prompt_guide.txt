@@ -1,0 +1,12 @@
+Create a new file called prompt_Guide.txt and answer the following questions: 
+this will be the basis of your prompt.
+
+1. In 1 to 2 sentences and describe the game, what the 
+player does and what makes it challenging
+
+2. Define whether the game begins right a way or if there is a welcome screen
+3. Describe the game objects that will be in the game 
+4. Describe the player control scheme, the buttons used and what they should do
+5. Describe the enemy or obstacle objects and how they should behave
+6. Describe the win and lose conditions of your game
+

@@ -40,8 +40,19 @@ print(account_1.username)   # Kimble
 print(account_1.followers)  # 10   
 
 
+# basketbell - 
+# the attribute for my basketball bounce rate this is a number that 
+# dictacts how fast the ball bounces
+# the color of the ball is also another attribute
 
-# my character object will have several attributes and methods.
-# some attributes Im considering for the player character is a speed
-# attribute, a health Attribute
-# for my methods for this object i would to a attack method 
+# a method of the ball is keeping track of when it enters the hoop
+# if it enters the hoop, you gain points
+
+# Court 
+# a mehtod would be a player detector, where depending on how close the 
+# player is to the court it will dicate how many points they will get. 
+
+# Player
+
+
+
